@@ -4,7 +4,7 @@
 
 中文版（施工中）：
 
-> - [Markdown](http://compound-interest-with-friction-zh.md/)
+> - [Markdown](compound-interest-with-friction-zh.md)
 > - [PDF]()
 
 English version (Work in progress):
