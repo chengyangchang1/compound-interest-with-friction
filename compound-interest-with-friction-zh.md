@@ -2,7 +2,7 @@
 
 作者：Cheng-Yang Chang chengyangchang1@gmail.com 2023.9.19
 
-[Check it out on Github](https://github.com/chengyangchang1/compound-interest-with-friction)
+[Check it out on GitHub](https://github.com/chengyangchang1/compound-interest-with-friction)
 
 
 
