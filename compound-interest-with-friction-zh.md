@@ -93,7 +93,7 @@ $$
 
 我們可以發現 $\beta$ 是 $A$ 的函數，當 $A$ 確定時 $\beta$ 也確定了。因為 $a$ 一定大於等於 $0$，所以 $A$ 也一定大於等於 $0$，反過來說當 $\beta$ 確定時 $A$ 也唯一確定了，也就是說 $A$ 也是 $\beta$ 的函數。所以當 $\beta$ 決定時，只要求這個方程式的根就可以求出 $A$。
 
-我們來看看是 $A$ 什麼，我們知道 $A = \displaystyle \frac{\displaystyle a }{\displaystyle n}$。我們會發現 $a$ 是單位時間的利率（單利），如果我們存入 $1$ 塊錢，經過單位時間後會有 $a$ 塊的利息收入，如果存入 $V_i$ 塊錢，經過單位時間後會有 $\displaystyle V_i a$ 塊的利息收入。但是我們在單位時間中切分成 $n$ 次，所以 $\displaystyle \frac{\displaystyle a }{\displaystyle n}$ 就是單位資金，從上一次再存入後累積的收入。如果初始資金是 $V_i$，則 $V_i\displaystyle \frac{\displaystyle a }{\displaystyle n}$ 就是從上一次再存入後累積的收入，可以寫為 $V_i A$，所以每次週期結束累計的利息可以寫為 $I = V_i A$。又我們知道當 $\beta$ 決定時，$A$ 也決定了，所以當 $\beta$ 決定時 $a$ 就跟 $n$ 成正比，並且它們之間的比值由 $\beta$ 決定。
+我們來看看是 $A$ 什麼，我們知道 $A = \displaystyle \frac{\displaystyle a }{\displaystyle n}$。我們會發現 $a$ 是單位時間的利率（單利），如果我們存入 $1$ 塊錢，經過單位時間後會有 $a$ 塊的利息收入，如果存入 $V_i$ 塊錢，經過單位時間後會有 $\displaystyle V_i a$ 塊的利息收入。但是我們在單位時間中切分成 $n$ 次，所以 $\displaystyle \frac{\displaystyle a }{\displaystyle n}$ 就是單位資金，從上一次再存入後累積的收入。如果初始資金是 $V_i$，則 $V_i\displaystyle \frac{\displaystyle a }{\displaystyle n}$ 就是從上一次再存入後累積的收入，可以寫為 $V_i A$，所以每次週期結束累計的利息可以寫為 $I = V_i A$。又我們知道當 $\beta$ 決定時 $A$ 也決定了，所以當 $\beta$ 決定時 $a$ 就跟 $n$ 成正比，並且它們之間的比值由 $\beta$ 決定。
 
 為什麼我們不用 $a$ 跟 $n$ 而要用 $A$？因為在鍊上利率時常是波動的，所以在利率波動的情況下算出的 $n$ 也會波動，進而影響到我們得出的最佳存入的週期，使得存入週期也是波動的。但是我們會發現 $a$ 總是與 $n$ 一起出現（總是相除），所以 $A$ 只跟 $\beta$ 有關與 $a$ 無關。因此改用 $A$ 後就可以忽略利率波動的影響，只要給定 $\beta$ 後就可以求出 $A$，只要累積的利息收入與本來存入資金的比率到達 $A$，就是要再存入的時機。
 
