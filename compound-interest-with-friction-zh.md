@@ -1,4 +1,4 @@
-# 在有交易摩擦的情況下，自動造市商的最佳循環週期
+# 在交易有摩擦情況下的複利模型
 
 作者：Cheng-Yang Chang chengyangchang1@gmail.com 2023.9.19
 
