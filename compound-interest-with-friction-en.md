@@ -1,4 +1,4 @@
-# 在交易有摩擦情況下的複利模型
+# Compound interest model in the presence of trading frictions
 
 作者：Cheng-Yang Chang chengyangchang1@gmail.com 2023.9.19
 
