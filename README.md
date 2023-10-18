@@ -18,7 +18,7 @@ English version (Work in progress):
 > - [Markdown](compound-interest-with-friction-zh.md)
 > - [PDF]()
 
-The reason for this post is that I lock positions on Uniswap to generate revenue, but the revenue generated from market making on Uniswap is not automatically deposited back into the liquid pool. So I need to manually withdraw the revenue and deposit it back into the liquid pool to generate compound interest. So I need to know what is the best deposit cycle to maximise the growth rate. But I searched for a long time and couldn't find anyone who had done something similar, so I had to derive it myself. Also as an exercise in writing an essay in Markdown format.
+The reason for this post is that I lock positions on Uniswap to generate revenue, but the revenue generated from market making on Uniswap is not automatically deposited back into the liquid pool. So I need to manually withdraw the revenue and deposit it back into the liquid pool to generate compound interest. So I need to know what is the best deposit cycle to maximise the growth rate. But I've searched for a long time and couldn't find anyone who had done something similar, so I had to derive it myself. Also as an exercise in writing an essay in Markdown format.
 
 會有這篇文章是因為我在 Uniswap 上鎖倉賺取收益，但是在 Uniswap 做市產生的收益不能自動回存到流動池中。所以需要手動的提出收益，然後再存入流動池中才能產生複利。因此我需要知道怎樣的存入週期才會使成長率最大。但是我找了很久實在是找不到有人有做過類似的事情，只好自己推導。同時作為練習用 Markdown 格式寫論文。
 
