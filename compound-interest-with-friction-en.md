@@ -17,6 +17,8 @@ Author: Cheng-Yang Chang chengyangchang1@gmail.com 2023.9.19
 
 但是這種無手續費的假設，並不一定符合真實的狀況，如果我們是存在中心化的銀行，銀行給我們的利率已經考慮了手續費，銀行已經扣除了他們需要的費用與利潤，我們只需要放著領利息就好，不用做特殊的操作。但如果是在去中心化的合約上，不會有人提供這樣的服務，所以我們必須自己計算最佳的存入週期，自己手動操作。
 
+For example, a locked position on Uniswap generates daily revenue, which can be unlocked and re-injected into liquidity. However, both unlocking and re-depositing of liquidity are subject to a chain miner's fee, and the newly injected assets generate additional revenue, so when should we perform the operation (withdrawal and re-deposit) in order to maximise the revenue.
+
 舉例來說：在Uniswap上鎖倉，每天會產生手續費收益，這些收益可以解鎖後再重新鎖倉注入流動性。但是解鎖與輸入流動性都要繳交鍊上礦工手續費，而新注入的資產會產生額外的收益，我們應該在甚麼時候（或是未領取手續費到達多少時）執行操作（提領並再存入），才能讓收益最大化。
 
 由於我們進行提領利息再存入的這個動作需要手續費，所以我們就不能像古典的情況一樣讓再存入的時間間隔趨近於 $0$，因為時間間隔越短，會讓手續費增加，但是時間間隔越長，會讓複利效果下降。所以我們應該可以找到一個合適的時間間隔，讓收益最大化。如果手續費降低到 $0$，此時就退化成古典的複利極限。
