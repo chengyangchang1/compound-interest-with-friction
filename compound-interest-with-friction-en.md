@@ -10,7 +10,7 @@ Author: Cheng-Yang Chang chengyangchang1@gmail.com 2023.9.19
 
 -----
 
-## 1. 引言 (Introduction)
+## 1. Introduction
 
 
 The classical model of compound interest is that we withdraw and re-deposit simple interest over and over again, and when there is no handling fee for re-deposits (no cost), we find that we should let the time between re-deposits approach zero, which will maximise revenue. We know that this is the definition of an exponential function, and that it is a model of compound interest growth.
