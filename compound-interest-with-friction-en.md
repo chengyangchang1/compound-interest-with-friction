@@ -23,6 +23,8 @@ However, this assumption of no handling fee does not necessarily correspond to t
 
 For example, a locked position on Uniswap generates daily revenue, which can be unlocked and re-injected into liquidity. However, both unlocking and re-depositing of liquidity are subject to a chain miner's fee, and the newly injected assets generate additional revenue, so when should we perform the operation (withdrawal and re-deposit) in order to maximise the revenue.
 
+Since there is a handling fee for the withdrawal and re-deposit, we can't make the time interval for re-deposit as close to $0$ as in the classical case, because the shorter the time interval, the higher the handling fee, but the longer the time interval, the lower the compounding effect. So we should be able to find a suitable time interval to maximise revenue. If the handling fee is reduced to $0$, it degenerates to the classical compounding limit.
+
 由於我們進行提領利息再存入的這個動作需要手續費，所以我們就不能像古典的情況一樣讓再存入的時間間隔趨近於 $0$，因為時間間隔越短，會讓手續費增加，但是時間間隔越長，會讓複利效果下降。所以我們應該可以找到一個合適的時間間隔，讓收益最大化。如果手續費降低到 $0$，此時就退化成古典的複利極限。
 
 ## 2. 古典無手續費的複利模型 (Classical no-fee compound interest model)
