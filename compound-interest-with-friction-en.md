@@ -13,6 +13,8 @@ Author: Cheng-Yang Chang chengyangchang1@gmail.com 2023.9.19
 ## 1. 引言 (Introduction)
 
 
+The classical model of compound interest is that we withdraw and re-deposit simple interest over and over again, and when there is no handling fee for re-deposits (no cost), we find that we should let the time between re-deposits approach zero, which will maximise revenue. We know that this is the definition of an exponential function, and that it is a model of compound interest growth.
+
 古典的複利模型，是指我們把單利的利息不斷的提領並再存入，當再存入沒有手續費時（沒有成本），我們會發現應該讓再存入的間隔的時間趨近於零，這樣會讓收益最大化。我們知道這就是指數函數的定義，也是複利成長的模型。
 
 但是這種無手續費的假設，並不一定符合真實的狀況，如果我們是存在中心化的銀行，銀行給我們的利率已經考慮了手續費，銀行已經扣除了他們需要的費用與利潤，我們只需要放著領利息就好，不用做特殊的操作。但如果是在去中心化的合約上，不會有人提供這樣的服務，所以我們必須自己計算最佳的存入週期，自己手動操作。
