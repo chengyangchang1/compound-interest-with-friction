@@ -17,6 +17,8 @@ The classical model of compound interest is that we withdraw and re-deposit simp
 
 古典的複利模型，是指我們把單利的利息不斷的提領並再存入，當再存入沒有手續費時（沒有成本），我們會發現應該讓再存入的間隔的時間趨近於零，這樣會讓收益最大化。我們知道這就是指數函數的定義，也是複利成長的模型。
 
+However, this assumption of no handling fee does not necessarily correspond to the real situation. If we are in a centralised bank, the interest rate offered by the bank has already taken into account the handling fee, and the bank has already deducted the fees and profits they need to make, so we just need to leave it to collect the interest, and we don't need to do any special operations. But in the case of a decentralised contract, no one will provide such a service, so we have to calculate the optimal deposit cycle ourselves and do it manually.
+
 但是這種無手續費的假設，並不一定符合真實的狀況，如果我們是存在中心化的銀行，銀行給我們的利率已經考慮了手續費，銀行已經扣除了他們需要的費用與利潤，我們只需要放著領利息就好，不用做特殊的操作。但如果是在去中心化的合約上，不會有人提供這樣的服務，所以我們必須自己計算最佳的存入週期，自己手動操作。
 
 For example, a locked position on Uniswap generates daily revenue, which can be unlocked and re-injected into liquidity. However, both unlocking and re-depositing of liquidity are subject to a chain miner's fee, and the newly injected assets generate additional revenue, so when should we perform the operation (withdrawal and re-deposit) in order to maximise the revenue.
