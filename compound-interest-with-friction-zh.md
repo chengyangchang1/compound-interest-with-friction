@@ -29,7 +29,7 @@ $$
 (\displaystyle 1 + \displaystyle \frac{1}{\displaystyle n} )^{\displaystyle n}
 $$
 
-當再存入沒有手續費時，我們會發現當 $n$ 趨向無限時，收入最大，且雖然表面上利率是 $1$，但由於不斷的複利投入所以利率從 $1$ 變為 $e$。現在我們讓利率從 $1$ 變為 $a$，單位時間內的複利成長公式變為：
+當再存入沒有手續費時，我們會發現當 $n$ 趨向無限時，收入最大，且雖然表面上利率是 $1$，但由於不斷的複利投入所以利率從 $1$ 變為 $e$。現在我們讓利率（單利）從 $1$ 變為 $a$，單位時間內的複利成長公式變為：
 
 $$
 (\displaystyle 1 + \displaystyle \frac{a}{\displaystyle n} )^{\displaystyle n}
