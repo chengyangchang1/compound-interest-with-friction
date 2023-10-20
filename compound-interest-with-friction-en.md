@@ -23,6 +23,8 @@ Since there is a handling fee for the withdrawal and re-deposit, we can't make t
 
 ## 2. 古典無手續費的複利模型 (Classical no-fee compound interest model)
 
+We review the classical definition of the exponential function, and the formula for compound interest growth in unit time[^1] looks like this:
+
 我們回顧古典的指數函數定義，在單位時間內的複利成長公式[^1]長這樣：
 
 $$
@@ -34,6 +36,8 @@ $$
 $$
 (\displaystyle 1 + \displaystyle \frac{a}{\displaystyle n} )^{\displaystyle n}
 $$
+
+Let $n$ trends to infinity, we get:
 
 讓 $n$ 趨向無限，得到：
 
