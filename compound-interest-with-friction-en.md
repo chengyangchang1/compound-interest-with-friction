@@ -31,6 +31,8 @@ $$
 (\displaystyle 1 + \displaystyle \frac{1}{\displaystyle n} )^{\displaystyle n}
 $$
 
+When there is no handling fee for re-deposits, we find that the revenue is greatest when $n$ tends to infinity, and although the interest rate is ostensibly $1$, it changes from $1$ to $e$ because of the constant compounding of interest inputs. Now we let the interest rate (simple interest) change from $1$ to $a$, and the formula for the growth of compound interest per unit of time becomes:
+
 當再存入沒有手續費時，我們會發現當 $n$ 趨向無限時，收入最大，且雖然表面上利率是 $1$，但由於不斷的複利投入所以利率從 $1$ 變為 $e$。現在我們讓利率從 $1$ 變為 $a$，單位時間內的複利成長公式變為：
 
 $$
