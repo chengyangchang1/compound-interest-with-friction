@@ -21,7 +21,7 @@ For example, a locked position on Uniswap generates daily revenue, which can be 
 
 Since there is a handling fee for the withdrawal and re-deposit, we can't make the time interval for re-deposit as close to $0$ as in the classical case, because the shorter the time interval, the higher the handling fee, but the longer the time interval, the lower the compounding effect. So we should be able to find a suitable time interval to maximise revenue. If the handling fee is reduced to $0$, it degenerates to the classical compounding limit.
 
-## 2. 古典無手續費的複利模型 (Classical no-fee compound interest model)
+## 2. 古典無手續費的複利模型 (The classical model of compound interest without fees)
 
 We review the classical definition of the exponential function, and the formula for compound interest growth in unit time[^1] looks like this:
 
