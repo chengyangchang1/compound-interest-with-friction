@@ -23,7 +23,7 @@
 
 ## 2. 古典無手續費的複利模型 (Classical no-fee compound interest model)
 
-我們回顧古典的指數函數定義，在單位時間內的複利成長公式[^1]長這樣：
+我們回顧古典的指數函數定義，在單位時間內的複利成長公式[^1]如下所示：
 
 $$
 (\displaystyle 1 + \displaystyle \frac{1}{\displaystyle n} )^{\displaystyle n}
