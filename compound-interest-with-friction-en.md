@@ -39,7 +39,7 @@ $$
 (\displaystyle 1 + \displaystyle \frac{a}{\displaystyle n} )^{\displaystyle n}
 $$
 
-Let $n$ trends to infinity, we get:
+Let $n$ tends to infinity, we get:
 
 讓 $n$ 趨向無限，得到：
 
