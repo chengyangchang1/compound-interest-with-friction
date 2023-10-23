@@ -49,8 +49,6 @@ In a deposit cycle, we call the funds deposited at the beginning the initial fun
 
 Now let the interest rate be $a$, and suppose that a unit of time is split $n$ times (where the time interval between splits is assumed to be uniform), so that the amount of money each time becomes:
 
-現在我們讓利率一樣是 $a$，假設單位時間一樣分割 $n$ 次（這裡假設分割的時間間隔是均勻的），則每次的資金變為前一次的：
-
 $$
 \left ( 1+\frac{a }{\displaystyle n} \right )
 $$
