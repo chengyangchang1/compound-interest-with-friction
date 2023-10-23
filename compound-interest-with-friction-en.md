@@ -47,7 +47,7 @@ In a deposit cycle, we call the funds deposited at the beginning the initial fun
 
 在一次的存入週期中，我們把一開始存入的資金稱為初始資金，我們叫它 $V_i$。從上一次存入後累積的利息收入我們叫它 $I$。我們把初始資金加利息收入就會得到總資金我們令它為 $V_f$，我們可以得到 $V_i + I = V_f$。現在我們假設利率是 $a$，也就是說如果放著不動，經過單位時間後，累積到的利息收入為 $\displaystyle V_i a$。假設進行提領再存入需要手續費 $F$，我們現在定義一個新的量 $\beta$，可以寫為 $\displaystyle\beta = \frac{V_f - F}{V_f} = \frac{V_i + I - F}{V_i + I}$，可以認為 $\beta$ 代表經過再存入後剩餘的資金與存入前總資金的比，所以 $\beta V_f$ 也是下一個周期的初始資金，也就是說上一個周期的總資金乘 $\beta$ 以後是下一個周期的初始資金，所以 $\beta$ 可以當作每次再存入的資金剩餘率，你可以當作 $\beta$ 越接近 $1$ 手續費越低，而 $\beta$ 越接近 $0$ 手續費越高（ $\beta < 1$，所以 $1 - \beta$ 就是收取手續費的費率）。
 
-Now let the interest rate be $a$, and suppose that the unit time is split $n$ times (where the time interval between splits is assumed to be uniform), so that the amount of money each time becomes:
+Now let the interest rate be $a$, and suppose that a unit of time is split $n$ times (where the time interval between splits is assumed to be uniform), so that the amount of money each time becomes:
 
 現在我們讓利率一樣是 $a$，假設單位時間一樣分割 $n$ 次（這裡假設分割的時間間隔是均勻的），則每次的資金變為前一次的：
 
