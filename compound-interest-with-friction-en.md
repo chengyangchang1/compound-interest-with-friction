@@ -63,6 +63,8 @@ $$
 \beta \left ( 1+\frac{a }{\displaystyle n} \right )
 $$
 
+Since this action is repeated $n$ times per unit of time, the total amount of money after a unit of time becomes:
+
 由於單位時間內要重複這個動作 $n$ 次，所以單位時間後總資金變為原本的：
 
 $$
