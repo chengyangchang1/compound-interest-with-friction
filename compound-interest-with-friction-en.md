@@ -77,6 +77,8 @@ $$
 \end{align*}
 $$
 
+Substituting $\displaystyle \beta \left ( 1+\frac{a }{\displaystyle n} \right ) = g$ into $(2)$ and simplify to get:
+
 將 $\displaystyle \beta \left ( 1+\frac{a }{\displaystyle n} \right ) = g$ 代入 $(2)$，化簡後得到：
 
 $$
