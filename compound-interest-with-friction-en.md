@@ -79,8 +79,6 @@ $$
 
 Substituting $\displaystyle \beta \left ( 1+\frac{a }{\displaystyle n} \right ) = g$ into $(2)$ and can be reduced to:
 
-將 $\displaystyle \beta \left ( 1+\frac{a }{\displaystyle n} \right ) = g$ 代入 $(2)$，化簡後得到：
-
 $$
 \ln{\left [ \displaystyle \beta \left ( 1+\frac{a }{\displaystyle n} \right ) \right ]} = \frac{1}{\displaystyle \left ( 1+\frac{a }{\displaystyle n} \right )}\frac{a }{\displaystyle n} \tag{3}
 $$
