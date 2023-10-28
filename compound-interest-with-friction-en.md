@@ -83,6 +83,8 @@ $$
 
 我們令 $\displaystyle \frac{\displaystyle a }{\displaystyle n} = A$，代入上式就可以改寫成：
 
+Let $\displaystyle \frac{\displaystyle a }{\displaystyle n} = A$, and substituting into the above equation, we get:
+
 $$
 \ln{\left [ \beta \left ( 1 + A \right ) \right ]} = \frac{1}{\left ( 1 + A \right )}A \tag{4}
 $$
