@@ -79,7 +79,7 @@ $$
 \ln{\left [ \displaystyle \beta \left ( 1+\frac{a }{\displaystyle n} \right ) \right ]} = \frac{1}{\displaystyle \left ( 1+\frac{a }{\displaystyle n} \right )}\frac{a }{\displaystyle n} \tag{3}
 $$
 
-我們令 $\displaystyle \frac{\displaystyle a }{\displaystyle n} = A$，代入上式就可以改寫成：
+我們令 $\displaystyle \frac{\displaystyle a }{\displaystyle n} = A$，代入上式 $(3)$ 就可以改寫成：
 
 $$
 \ln{\left [ \beta \left ( 1 + A \right ) \right ]} = \frac{1}{\left ( 1 + A \right )}A \tag{4}
