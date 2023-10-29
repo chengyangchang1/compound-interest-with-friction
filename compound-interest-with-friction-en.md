@@ -89,8 +89,6 @@ $$
 
 Reducing the above equation, we get:
 
-再把上式化簡可以得到：
-
 $$
 \beta = \frac{e^{\frac{\displaystyle A}{\displaystyle 1 + A} } }{1 + A} \tag{5}
 $$
