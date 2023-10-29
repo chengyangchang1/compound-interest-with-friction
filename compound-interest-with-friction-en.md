@@ -91,6 +91,8 @@ $$
 \beta = \frac{e^{\frac{\displaystyle A}{\displaystyle 1 + A} } }{1 + A} \tag{5}
 $$
 
+We can see that $\beta$ is a function of $A$, and when $A$ is determined $\beta$ is also determined. Because $a$ must be greater than or equal to $0$, so $A$ must be greater than or equal to $0$. Conversely, when $\beta$ is determined, $A$ is also determined, which means that $A$ is also a function of $\beta$. So when $\beta$ is determined, $A$ can be found by finding the roots of this equation.
+
 我們可以發現 $\beta$ 是 $A$ 的函數，當 $A$ 確定時 $\beta$ 也確定了。因為 $a$ 一定大於等於 $0$，所以 $A$ 也一定大於等於 $0$，反過來說當 $\beta$ 確定時 $A$ 也唯一確定了，也就是說 $A$ 也是 $\beta$ 的函數。所以當 $\beta$ 決定時，只要求這個方程式的根就可以求出 $A$。
 
 我們來看看是 $A$ 什麼，我們知道 $A = \displaystyle \frac{\displaystyle a }{\displaystyle n}$。我們會發現 $a$ 是單位時間的利率（單利），如果我們存入 $1$ 塊錢，經過單位時間後會有 $a$ 塊的利息收入，如果存入 $V_i$ 塊錢，經過單位時間後會有 $\displaystyle V_i a$ 塊的利息收入。但是我們在單位時間中切分成 $n$ 次，所以 $\displaystyle \frac{\displaystyle a }{\displaystyle n}$ 就是單位資金，從上一次再存入後累積的收入。如果初始資金是 $V_i$，則 $V_i\displaystyle \frac{\displaystyle a }{\displaystyle n}$ 就是從上一次再存入後累積的收入，可以寫為 $V_i A$，所以每次週期結束累計的利息可以寫為 $I = V_i A$。又我們知道當 $\beta$ 決定時 $A$ 也決定了，所以當 $\beta$ 決定時 $a$ 就跟 $n$ 成正比，並且它們之間的比值由 $\beta$ 決定。
