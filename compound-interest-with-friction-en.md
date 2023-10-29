@@ -87,6 +87,8 @@ $$
 \ln{\left [ \beta \left ( 1 + A \right ) \right ]} = \frac{1}{\left ( 1 + A \right )}A \tag{4}
 $$
 
+Reducing the above equation, we get:
+
 再把上式化簡可以得到：
 
 $$
