@@ -41,7 +41,7 @@ $$
 \lim_{n \to \infty} (\displaystyle 1 + \displaystyle \frac{a}{\displaystyle n} )^{\displaystyle n} = e^{\displaystyle a}
 $$
 
-## 3. 當交易有摩擦時的複利機制 (The mechanism of compound interest when trading is not frictionless)
+## 3. The mechanism of compound interest when trading is not frictionless
 
 In a deposit cycle, we call the funds deposited at the beginning the initial funds, which we call $V_i$. The interest income accumulated since the last deposit is called $I$. We add the initial deposit to the interest income to get the total funds which we call $V_f$ and we get $V_i + I = V_f$. Now let's assume that the interest rate is $a$, that is, if we leave it alone, after a unit of time, the interest income accumulated will be $\displaystyle V_i a$. Assuming that there is a handling fee of $F$ for re-deposit, we now define a new quantity $\beta$, which can be written as $\displaystyle\beta = \frac{V_f - F}{V_f} = \frac{V_i + I - F}{V_i + I}$. So $\beta$ can be considered as the ratio of the remaining funds after re-deposit to the total funds before deposit, so $\beta V_f$ is also the initial funds for the next cycle, that is, the total funds of the previous cycle multiplied by $\beta$ is the initial funds for the next cycle, so $\beta$ can be taken as the ratio of the remaining funds for each re-deposit. The closer $\beta$ is to $1$, the lower the handling fee is, and the closer $\beta$ is to $0$, the higher the handling fee is ($\beta < 1$, so $1 - \beta$ is the rate at which the handling fee is charged).
 
