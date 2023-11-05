@@ -127,7 +127,7 @@ $$
 \displaystyle\beta^{\displaystyle n}\left ( 1 + x_1 a \right )\left ( 1 + x_2 a \right ) \cdots \left ( 1 + x_n a \right ) \tag{7}
 $$
 
-Instead of $\displaystyle\left ( 1 + x_1 a \right )\left ( 1 + x_2 a \right )\cdots \left ( 1 + x_n a \right )$, we can replace it with the **Geometric mean**[^2] of $\displaystyle\left ( 1 + x_1 a \right )\left ( 1 + x_2 a \right )\left ( 1 + x_n a \right )$, and we let the geometric mean be $G$. because $G^{\displaystyle n} = \displaystyle\left ( 1 + x_1 a \right )\left ( 1 + x_2 a \right ) \cdots \left ( 1 + x_n a \right )$. Substituting $G^{\displaystyle n}$ into the above equation $(7)$, we can rewrite the growth rate as:
+Instead of $\displaystyle\left ( 1 + x_1 a \right )\left ( 1 + x_2 a \right )\cdots \left ( 1 + x_n a \right )$, we can replace it with the **Geometric mean**[^2] of itself, and we let the geometric mean be $G$. because $G^{\displaystyle n} = \displaystyle\left ( 1 + x_1 a \right )\left ( 1 + x_2 a \right ) \cdots \left ( 1 + x_n a \right )$. Substituting $G^{\displaystyle n}$ into the above equation $(7)$, we can rewrite the growth rate as:
 
 我們可以改用 $\displaystyle\left ( 1 + x_1 a \right )\left ( 1 + x_2 a \right ) \cdots \left ( 1 + x_n a \right )$ 的**幾何平均數(Geometric mean)**[^2]來取代它，我們令幾何平均數為 $G$，因為 $G^{\displaystyle n} = \displaystyle\left ( 1 + x_1 a \right )\left ( 1 + x_2 a \right ) \cdots \left ( 1 + x_n a \right )$。把 $G^{\displaystyle n}$ 代入上面的式子 $(7)$ 我們可以把成長率改寫為：
 
