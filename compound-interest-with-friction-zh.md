@@ -125,7 +125,9 @@ $$
 \displaystyle\beta^{\displaystyle n} G^{\displaystyle n} \tag{8}
 $$
 
-我們會發現考慮手續費後的成長率，正好是古典分割 $n$ 次的複利成長公式乘上 $\beta^{\displaystyle n}$。但是當分割次數是固定的情況下，我們會發現不論分割間隔如何改變，都不會影響到分割的總次數 $n$，所以 $\beta^{\displaystyle n}$ 不會改變。如果我們希望成長率是極大值，由於 $n$ 是定值不會改變，所以只要 $G$ 越大，成長率也就越高。也就是說使 $G$ 最大的時間間隔分布，就是使成長率最大的時間間隔分布。我們看看**算術平均數(Arithmetic mean)**[^3] $\displaystyle\left ( 1 + x_1 a \right )\left ( 1 + x_2 a \right ) \cdots \left ( 1 + x_n a \right )$ 的算術平均數是 $\displaystyle\frac{n + \left ( x_1 + x_2 + \cdots + x_n \right ) a}{n}$，但是 $\left ( x_1 + x_2 + \cdots + x_n \right )$ 是 $1$，因為我們是把單位時間分割 $n$ 份，所以不管如何分割，這些時間間隔加起來，就是一開始的總時間也就是單位時間也就是 $1$，所以它們加起來一定是 $1$，我們把它化簡後得到 $\displaystyle\left ( 1 + \frac{a}{n} \right )$，我們會發現不論分割間隔為何，由於 $n$ 是固定的，所以算術平均數總是一樣的。我們知道**算幾不等式**[^4]，算術平均數總是大於等於幾何平均數，只有數列中每一個數相等時它們才會相等，也就是說當 $x_1 = x_2 = \cdots = x_n$ 時 $\displaystyle G = \left ( 1 + \frac{a}{n} \right )$，此時 $G$ 大於等於其他所有可能的幾何平均數，所以當數列中每一個數都相等時的 $G$，就是 $G$ 最大的可能。所以我們證明使 $G$ 最大的時間間隔分布為平均分布，此時 $\displaystyle G = \left ( 1 + \frac{a}{n} \right )$，代入前面的公式 $(8)$，此時成長率寫為：
+我們會發現考慮手續費後的成長率，正好是古典分割 $n$ 次的複利成長公式乘上 $\beta^{\displaystyle n}$。但是當分割次數是固定的情況下，我們會發現不論分割間隔如何改變，都不會影響到分割的總次數 $n$，所以 $\beta^{\displaystyle n}$ 不會改變。如果我們希望成長率是極大值，由於 $n$ 是定值不會改變，所以只要 $G$ 越大，成長率也就越高。也就是說使 $G$ 最大的時間間隔分布，就是使成長率最大的時間間隔分布。我們看看**算術平均數(Arithmetic mean)**[^3] $\displaystyle\left ( 1 + x_1 a \right )\left ( 1 + x_2 a \right ) \cdots \left ( 1 + x_n a \right )$ 的算術平均數是 $\displaystyle\frac{n + \left ( x_1 + x_2 + \cdots + x_n \right ) a}{n}$
+
+但是 $\left ( x_1 + x_2 + \cdots + x_n \right )$ 是 $1$，因為我們是把單位時間分割 $n$ 份，所以不管如何分割，這些時間間隔加起來，就是一開始的總時間也就是單位時間也就是 $1$，所以它們加起來一定是 $1$，我們把它化簡後得到 $\displaystyle\left ( 1 + \frac{a}{n} \right )$，我們會發現不論分割間隔為何，由於 $n$ 是固定的，所以算術平均數總是一樣的。我們知道**算幾不等式**[^4]，算術平均數總是大於等於幾何平均數，只有數列中每一個數相等時它們才會相等，也就是說當 $x_1 = x_2 = \cdots = x_n$ 時 $\displaystyle G = \left ( 1 + \frac{a}{n} \right )$，此時 $G$ 大於等於其他所有可能的幾何平均數，所以當數列中每一個數都相等時的 $G$，就是 $G$ 最大的可能。所以我們證明使 $G$ 最大的時間間隔分布為平均分布，此時 $\displaystyle G = \left ( 1 + \frac{a}{n} \right )$，代入前面的公式 $(8)$，此時成長率寫為：
 
 $$
 \beta^{\displaystyle n} \left ( 1+\frac{a }{\displaystyle n} \right )^{\displaystyle n}
