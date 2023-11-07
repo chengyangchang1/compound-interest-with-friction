@@ -129,6 +129,8 @@ $$
 \displaystyle\beta^{\displaystyle n} G^{\displaystyle n} \tag{8}
 $$
 
+We find that the growth rate after taking the commission into account is exactly the classical compound interest growth formula for $n$ splits multiplied by $\beta^{\displaystyle n}$. However, when the number of splits is fixed, we find that no matter how the time interval between splits changes, it does not affect the total number of splits $n$, so $\beta^{\displaystyle n}$ does not change. If we want to maximise the growth rate, since $n$ is a fixed number that does not change, so the larger $G$ is, the higher the growth rate will be. That is, the time interval to maximise $G$ is the time interval to maximise the growth rate. Let's look at the **Arithmetic mean**[^3]. The arithmetic mean of $\displaystyle\left ( 1 + x_1 a \right )\left ( 1 + x_2 a \right ) \cdots \left ( 1 + x_n a \right )$ is:
+
 我們會發現考慮手續費後的成長率，正好是古典分割 $n$ 次的複利成長公式乘上 $\beta^{\displaystyle n}$。但是當分割次數是固定的情況下，我們會發現不論分割間隔如何改變，都不會影響到分割的總次數 $n$，所以 $\beta^{\displaystyle n}$ 不會改變。如果我們希望成長率是極大值，由於 $n$ 是定值不會改變，所以只要 $G$ 越大，成長率也就越高。也就是說使 $G$ 最大的時間間隔分布，就是使成長率最大的時間間隔分布。我們看看**算術平均數(Arithmetic mean)**[^3] $\displaystyle\left ( 1 + x_1 a \right )\left ( 1 + x_2 a \right ) \cdots \left ( 1 + x_n a \right )$ 的算術平均數是：
 
 $$
