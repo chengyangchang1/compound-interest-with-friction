@@ -137,6 +137,8 @@ $$
 \displaystyle\frac{n + \left ( x_1 + x_2 + \cdots + x_n \right ) a}{n} \tag{9}
 $$
 
+But $\left ( x_1 + x_2 + \cdots + x_n \right ) = 1$, because the unit of time is split into $n$ parts, so no matter how it is split, these time intervals must add up to the unit of time which is $1$. Substituting it into equation $(9)$ and reducing it to get $\displaystyle\left ( 1 + \frac{a}{n} \right )$, we find that the arithmetic mean is always the same value, no matter how we split it. We know that with **AM–GM inequality**[^4], the arithmetic mean is always greater than or equal to the geometric mean, and they are equal only if every number in the series is equal. That is, when $x_1 = x_2 = \cdots = x_n$, $G$ is greater than or equal to all other possible geometric mean, that is, at this point $G$ is maximum. So we show that the time interval distribution that maximises $G$ is the uniform distribution, at this time $\displaystyle G = \left ( 1 + \frac{a}{n} \right )$, and substituting into the previous equation $(8)$, the growth rate at this time is written as:
+
 但是 $\left ( x_1 + x_2 + \cdots + x_n \right )$ 是 $1$，因為我們是把單位時間分割 $n$ 份，所以不管如何分割，這些時間間隔加起來，就是一開始的總時間也就是單位時間也就是 $1$，所以它們加起來一定是 $1$，我們把它化簡後得到 $\displaystyle\left ( 1 + \frac{a}{n} \right )$，我們會發現不論分割間隔為何，由於 $n$ 是固定的，所以算術平均數總是一樣的。我們知道**算幾不等式**[^4]，算術平均數總是大於等於幾何平均數，只有數列中每一個數相等時它們才會相等，也就是說當 $x_1 = x_2 = \cdots = x_n$ 時 $\displaystyle G = \left ( 1 + \frac{a}{n} \right )$，此時 $G$ 大於等於其他所有可能的幾何平均數，所以當數列中每一個數都相等時的 $G$，就是 $G$ 最大的可能。所以我們證明使 $G$ 最大的時間間隔分布為平均分布，此時 $\displaystyle G = \left ( 1 + \frac{a}{n} \right )$，代入前面的公式 $(8)$，此時成長率寫為：
 
 $$
