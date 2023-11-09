@@ -143,7 +143,7 @@ $$
 \beta^{\displaystyle n} \left ( 1+\frac{a }{\displaystyle n} \right )^{\displaystyle n}
 $$
 
-We will find that it returns to the formula we started with, so we proved that when the number of splits $n$ is fixed, the split that maximises the growth rate is the uniform split. And earlier, we also derived the formula for $n$ that gives the highest growth rate when the time interval between splits is uniform. Therefore, it can be concluded that if the time interval and the number of splits are allowed to change freely, the formula we solved for earlier is still the formula that maximises the growth rate, because our formula can satisfy both conditions at the same time.
+We will find that it returns to the formula we started with, so we proved that when the number of splits $n$ is fixed, the split that maximises the growth rate is the uniform split. And earlier, we also derived the formula for $n$ that maximises the growth rate when the time interval between splits is uniform. Therefore, it can be concluded that if the time interval and the number of splits are allowed to change freely, the formula we solved for earlier is still the formula that maximises the growth rate, because our formula can satisfy both conditions at the same time.
 
 我們會發現又回到我們最一開始的公式，所以我們證明了當分割次數 $n$ 固定時，使成長率最高的分割是平均分割。前面又證明了當時間間隔平均分割時，使成長率最高的公式，可以用它求出使成長率最高的 $n$。可以得出如果讓時間間隔與分割次數都可以自由改變，我們前面求的公式依然是讓成長率最高的公式，因為我們的公式可以同時滿足這兩個條件。
 
