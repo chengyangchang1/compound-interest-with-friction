@@ -147,6 +147,8 @@ We will find that it returns to the formula we started with, so we proved that w
 
 ## 5. 等效利率 (Equivalent interest rate)
 
+We now realise that when there exists trading friction, we can't make the cycle of withdrawals and re-deposits infinitely short, as we do in traditional compounding. Instead, we must wait until accumulated interest income reaches a certain amount in order to maximise growth. That is, the friction of the transaction will cause a reduction in our ability to utilise the funds, which means that the interest rate we actually receive will be lower than it would have been when the transaction was frictionless. We would like to know how big the impact of such a loss would be.
+
 現在我們了解到了，當交易有摩擦時，我們並不能像傳統的複利一樣，無限短的提領再存入，而是必須在利息收入到達一定量的時候再操作，才能到達最佳的成長效果。也就是說這種交易的摩擦會造成我們資金利用能力的下降，也就是我們實際上收到的利率會小於交易無摩擦時的利率。我們想知道這樣的損失會造成多大的影響。
 
 回顧古典複利，我們知道：
