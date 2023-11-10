@@ -149,6 +149,8 @@ We will find that it returns to the formula we started with, so we proved that w
 
 We now realise that when there exists trading friction, we can't make the cycle of withdrawals and re-deposits infinitely short, as we do in classical compounding. Instead, we must wait until accumulated interest income reaches a certain amount in order to maximise growth. That is, the friction of the transaction will cause a reduction in our ability to utilise the funds, which means that the interest rate we actually receive will be lower than it would have been when the transaction was frictionless. We would like to know how big the impact of such a loss would be.
 
+Reviewing classical compound interest, we know that:
+
 回顧古典複利，我們知道：
 
 $$
