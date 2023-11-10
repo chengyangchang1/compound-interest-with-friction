@@ -279,7 +279,7 @@ $$
 
 -----
 
-## 參考文獻 (References)
+## References
 
 
 [^1]: **维基百科, s.v. "指数函数"** Wikipedia contributors (2023-06-15) <https://zh.wikipedia.org/w/index.php?title=%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0&oldid=77692656>
