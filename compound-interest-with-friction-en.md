@@ -157,6 +157,8 @@ $$
 \lim_{n \to \infty} \left ( \displaystyle 1 + \displaystyle \frac{a}{\displaystyle n}  \right )^{\displaystyle n} = e^{\displaystyle a}
 $$
 
+This means that after a unit of time, money grows to $e^{\displaystyle a}$ times of its initial amount, where $a$ is what we call the **logarithmic rate of return**[^5]. Now, if we keep the interest rate fixed at $a$, and we strictly follow the optimal deposit cycle when there is a trading friction, we want to know what our equivalent logarithmic rate of return becomes.
+
 意思是說經過單位時間，資金會成長為原來的 $e^{\displaystyle a}$ 倍，其中 $a$ 我們稱為**對數報酬率(logarithmic rate of return)**[^5]。現在我們想知道當當交易有摩擦時，如果我們嚴格依照最佳循環週期來操作，則在利率不變維持 $a$ 的情況下，我們等效的對數報酬變為多少。
 
 由於前面我們已經知道了，在考慮交易手續費的情況下，經過單位時間後資金會成長為原來的 $\displaystyle\left [ \beta \left ( 1+\frac{\displaystyle a }{\displaystyle n} \right ) \right ] ^{\displaystyle n}$ 倍，我們令它等於 $e^{\displaystyle b}$，其中 $b$ 就是等效對數報酬率：
