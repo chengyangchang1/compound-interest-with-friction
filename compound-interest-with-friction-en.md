@@ -169,6 +169,8 @@ $$
 \left [ \beta \left ( 1+\frac{a }{\displaystyle n} \right ) \right ] ^{\displaystyle n} = e^{\displaystyle b}
 $$
 
+We take the logarithm of both sides, and reduce it to get:
+
 同時對它們取對數，化簡後得到：
 
 $$
