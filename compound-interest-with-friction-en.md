@@ -193,6 +193,8 @@ $$
 \gamma = \frac{1}{(1 + A)}
 $$
 
+We will find that since $A$ must be greater than $0$, $\gamma$ must be less than $1$. And $\gamma$ is independent of $a$ and only related to $\beta$ (or $A$). That is, friction will cause our actual revenue to decrease, and the decrease in the logarithmic rate of return will be equal to the ratio of the initial funds to the total funds before deposit.
+
 我們會發現因為 $A$ 一定大於 $0$，所以 $\gamma$ 一定小於 $1$。並且 $\gamma$ 跟 $a$ 無關只跟 $\beta$（或 $A$）有關。也就是說摩擦力會造成我們實際的收益的下降，並且對數報酬率的下降，正好等於與原始資金與加入利息收益的總資金的比值。
 
 並且移項後我們可以得到 $\displaystyle(1 + A) = \frac{1}{\gamma }$，與 $\displaystyle A = \frac{1}{\gamma } - 1$，將它們代入上面的方程式 $(5)$ 化簡後得到：
