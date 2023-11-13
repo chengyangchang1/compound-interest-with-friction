@@ -197,8 +197,6 @@ We will find that since $A$ must be greater than $0$, $\gamma$ must be less than
 
 And after moving the terms, we get $\displaystyle(1 + A) = \frac{1}{\gamma }$, and $\displaystyle A = \frac{1}{\gamma } - 1$, substituting them into the above equation $(5)$ and reduce it to get:
 
-並且移項後我們可以得到 $\displaystyle(1 + A) = \frac{1}{\gamma }$，與 $\displaystyle A = \frac{1}{\gamma } - 1$，將它們代入上面的方程式 $(5)$ 化簡後得到：
-
 $$
 \displaystyle\beta = \gamma e^{\displaystyle1 - \gamma } \tag{10}
 $$
