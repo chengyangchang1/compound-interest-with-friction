@@ -145,7 +145,7 @@ $$
 
 We will find that it returns to the formula we started with, so we proved that when the number of splits $n$ is fixed, the split that maximises the growth rate is the uniform split. And earlier, we also derived the formula for $n$ that maximises the growth rate when the time interval between splits is uniform. Therefore, it can be concluded that if the time interval and the number of splits are allowed to change freely, the formula we found earlier is still the formula that maximises the growth rate, because our formula can satisfy both conditions at the same time.
 
-## 5. 等效利率 (Equivalent interest rate)
+## 5. Equivalent interest rate
 
 We now realise that when there exists trading friction, we can't make the cycle of withdrawals and re-deposits infinitely short, as we do in classical compounding. Instead, we must wait until accumulated interest income reaches a certain amount in order to maximise growth. That is, the friction of the transaction will cause a reduction in our ability to utilise the funds, which means that the interest rate we actually receive will be lower than it would have been when the transaction was frictionless. We would like to know how big the impact of such a loss would be.
 
