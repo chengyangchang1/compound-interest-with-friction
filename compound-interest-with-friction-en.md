@@ -195,6 +195,8 @@ $$
 
 We will find that since $A$ must be greater than $0$, $\gamma$ must be less than $1$. And $\gamma$ is independent of $a$ and only related to $\beta$ (or $A$). That is, friction will cause our actual revenue to decrease, and the decrease in the logarithmic rate of return will be equal to the ratio of the initial funds to the total funds before re-deposit.
 
+And after moving the terms we get $\displaystyle(1 + A) = \frac{1}{\gamma }$, and $\displaystyle A = \frac{1}{\gamma } - 1$, substituting them into the above equation $(5)$ and reduce it to get:
+
 並且移項後我們可以得到 $\displaystyle(1 + A) = \frac{1}{\gamma }$，與 $\displaystyle A = \frac{1}{\gamma } - 1$，將它們代入上面的方程式 $(5)$ 化簡後得到：
 
 $$
