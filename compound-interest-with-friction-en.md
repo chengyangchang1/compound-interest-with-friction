@@ -219,6 +219,8 @@ $$
 \left ( 1 + A \right ) = 1 + \frac{I}{V_i} = \frac{V_f}{V_i}
 $$
 
+We substitute $\beta$ and $A$ into the above equation $(4)$ and reduce it to get:
+
 我們把 $\beta$ 跟 $A$ 代入之前得到的式子 $(4)$ 化簡後得到：
 
 $$
