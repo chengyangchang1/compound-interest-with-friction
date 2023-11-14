@@ -239,6 +239,8 @@ $$
 \ln{\left ( \frac{V_i + I - F}{V_i} \right ) } = \frac{I}{V_i + I}
 $$
 
+Reduce it to get:
+
 化簡後可以得到：
 
 $$
