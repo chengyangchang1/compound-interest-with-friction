@@ -265,7 +265,7 @@ Let's assume that when we want to re-deposit the interest earned, we have to go 
 
 假設當我們要把賺到的利息再存入，假設要經過三個步驟，首先把利息提領出來，由於我們收到的手續費中 USDT 與 USDC 的比值，不一定跟我們的流動池中兩種資產的比值是相同的比例。所以我們還要交易把它們換成相同比例，最後再存入。總之不管要經過多少步驟，我們把所有會產生的成本都加起來，就是所需的手續費 $F$，假設在目前的狀況中所需的手續費（通常是該鍊的幣）換算成美金要 $20$ 美元。
 
-We substitute the above equation to get $I$ equal to $207$ USD. You can look at the [Desmos page](https://www.desmos.com/calculator/aeull6siit) I created, we set $F$ and $V_i$ to the values we want, and then look at the intersection of the two equations, which is the $I$ we are asking for.
+We substitute it into the above equation to get $I$ equal to $207$ USD. You can look at the [Desmos page](https://www.desmos.com/calculator/aeull6siit) I created, we set $F$ and $V_i$ to the values we want, and then look at the intersection of the two equations, which is the $I$ we are asking for.
 
 我們代入上面的公式計算得到 $I$ 等於 $207$ 美元。可以看我建立的[Desmos頁面](https://www.desmos.com/calculator/aeull6siit)，我們把 $F$ 跟 $V_i$ 設定成我們要的數值，然後看兩個方程式的交點，就是我們要求的 $I$。
 
