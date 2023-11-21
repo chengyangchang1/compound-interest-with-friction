@@ -231,7 +231,7 @@ $$
 
 我們代入上面的公式計算得到 $I$ 等於 $207$ 美元。可以看我建立的[Desmos頁面](https://www.desmos.com/calculator/aeull6siit)，我們把 $F$ 跟 $V_i$ 設定成我們要的數值，然後看兩個方程式的交點，就是我們要求的 $I$。
 
-另一個方法是，移項後求這個方程式的根等於 $0$。
+另一個方法是，移項後求下面這個方程式的根。
 
 $$
 V_i + I - V_i \cdot e^{\displaystyle \frac{I}{V_i + I}} - F = 0
