@@ -241,7 +241,7 @@ $$
 
 接著看另一個[Desmos頁面](https://www.desmos.com/calculator/dqropidfjb)，這裡 $x$ 軸是我們的 $F$，而 $y$ 軸是我們的 $I$。我們可以利用這個頁面觀察 $F$ 與 $I$ 之間的關係，我們會發現 $I$ 始終大於 $F$，這很合理如果收到的利息小於手續費，則我們的錢就會越換越少。而當 $F$ 趨近於 $0$ 時 $I$ 也趨近於 $0$，這代表回到古典沒有手續費的情況。
 
-接著看 $\gamma$ 與 $\beta$ 的關係，當 $\beta$ 等於 $0.8$，代入之前的公式 $(10)$：
+我們回顧 $\gamma$ 與 $\beta$ 的關係，讓此時 $\beta$ 等於 $0.8$，代入之前的公式 $(10)$：
 
 $$
 \displaystyle\beta = \gamma e^{\displaystyle1 - \gamma }
