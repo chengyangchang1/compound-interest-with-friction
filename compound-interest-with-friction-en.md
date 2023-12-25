@@ -271,8 +271,6 @@ We substitute it into the above equation to get $I$ equal to $207$ dollars. You 
 
 Another way is to find the roots of the following equation after moving the terms.
 
-或是移項後求這個方程式的根等於 $0$。
-
 $$
 V_i + I - V_i \cdot e^{\displaystyle \frac{I}{V_i + I}} - F = 0
 $$
