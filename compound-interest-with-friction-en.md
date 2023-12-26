@@ -151,8 +151,6 @@ We now realise that when there exists trading friction, we can't make the cycle 
 
 Reviewing classical compound interest, we know that:
 
-回顧古典複利，我們知道：
-
 $$
 \lim_{n \to \infty} \left ( \displaystyle 1 + \displaystyle \frac{a}{\displaystyle n}  \right )^{\displaystyle n} = e^{\displaystyle a}
 $$
