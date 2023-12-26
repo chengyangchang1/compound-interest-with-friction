@@ -239,8 +239,6 @@ $$
 
 Reduce it to get:
 
-化簡後可以得到：
-
 $$
 F = V_i + I - V_i \cdot e^{\displaystyle \frac{I}{V_i + I}} \tag{11}
 $$
