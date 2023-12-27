@@ -279,8 +279,6 @@ $$
 
 We get $\gamma$ is equal to $0.472$. Then we use the same method to find the value of $\gamma$ when $\beta$ is equal to $0.9, 0.99, 0.999$, and we get:
 
-我們可以得到 $\gamma$ 等於 $0.472$。我們用一樣的方法求當 $\beta$ 等於 $0.9, 0.99, 0.999$ 的值得到：
-
 ```
    beta=0.9     gamma=0.608
    beta=0.99    gamma=0.865
