@@ -183,8 +183,6 @@ $$
 
 We introduce a new quantity, we let $\displaystyle\gamma = \frac{b}{a}$, and then we substitute it into the above equation, and reduce it to get:
 
-我們引入一個新的參數，我們令 $\displaystyle\gamma = \frac{b}{a}$，然後將上面的式子化簡後得到：
-
 $$
 \gamma = \frac{1}{(1 + A)}
 $$
