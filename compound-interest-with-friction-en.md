@@ -229,8 +229,6 @@ $$
 
 We substitute $V_f = V_i + I$ into the above equation and get the relationship between $F$ and $I$:
 
-我們把 $V_f = V_i + I$ 代入上面的公式，就可以得到 $F$ 與 $I$ 的關係：
-
 $$
 \ln{\left ( \frac{V_i + I - F}{V_i} \right ) } = \frac{I}{V_i + I}
 $$
