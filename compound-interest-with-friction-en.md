@@ -275,8 +275,6 @@ Moving on to another [Desmos page](https://www.desmos.com/calculator/dqropidfjb)
 
 We review the relationship between $\gamma$ and $\beta$, and let $\beta$ be equal to $0.8$ at this point, and substitute it into the previous equation $(10)$:
 
-接著看 $\gamma$ 與 $\beta$ 的關係，當 $\beta$ 等於 $0.8$，代入之前的公式 $(10)$：
-
 $$
 \displaystyle\beta = \gamma e^{\displaystyle1 - \gamma }
 $$
