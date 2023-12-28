@@ -175,8 +175,6 @@ $$
 
 We also know that the $n$ that makes the optimal deposit cycle is the solution of $\displaystyle\ln{\left [ \displaystyle \beta \left ( 1+\frac{a }{\displaystyle n} \right ) \right ]} = \frac{1}{\displaystyle \left ( 1+\frac{a }{\displaystyle n} \right )}\frac{a }{\displaystyle n}$. Substituting into the above equation and reduce it to get:
 
-又前面我們已經知道符合最佳循環週期的 $n$ 是 $\displaystyle\ln{\left [ \displaystyle \beta \left ( 1+\frac{a }{\displaystyle n} \right ) \right ]} = \frac{1}{\displaystyle \left ( 1+\frac{a }{\displaystyle n} \right )}\frac{a }{\displaystyle n}$ 的解，代入上面的式子化簡後得到：
-
 $$
 b = \frac{1}{\left ( 1 + A \right ) } a
 $$
