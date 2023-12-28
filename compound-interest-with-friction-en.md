@@ -255,8 +255,6 @@ Let's assume that when we want to re-deposit the interest earned, we have to go 
 
 We substitute it into the above equation to get $I$ equal to $207$ dollars. You can look at the [Desmos page](https://www.desmos.com/calculator/aeull6siit) I created, we set $F$ and $V_i$ to the values we want, and then look at the intersection point of the two equations, which is the $I$ we are asking for.
 
-我們代入上面的公式計算得到 $I$ 等於 $207$ 美元。可以看我建立的[Desmos頁面](https://www.desmos.com/calculator/aeull6siit)，我們把 $F$ 跟 $V_i$ 設定成我們要的數值，然後看兩個方程式的交點，就是我們要求的 $I$。
-
 Another way is to find the roots of the following equation after moving the terms.
 
 $$
