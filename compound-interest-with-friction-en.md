@@ -235,7 +235,7 @@ $$
 F = V_i + I - V_i \cdot e^{\displaystyle \frac{I}{V_i + I}} \tag{11}
 $$
 
-When $V_i$ and $F$ are determined, we only need to find the root of this equation to get $I$. It means that when the handling fee is fixed, when our accumulated interest income reaches $I$, it is time to withdraw and re-deposit.
+When $V_i$ and $F$ are determined, $I$ can be found by finding the root of this equation. It means that when the handling fee is fixed, when our accumulated interest income reaches $I$, it is time to withdraw and re-deposit.
 
 當 $V_i$ 跟 $F$ 確定時，只要求這個方程式的根就可以得到 $I$。意思是當手續費固定時，當我們累積的利息收入達到 $I$，就是要進行提領再存入操作的時機。
 
