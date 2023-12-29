@@ -189,7 +189,7 @@ $$
 \displaystyle\beta = \gamma e^{\displaystyle1 - \gamma } \tag{10}
 $$
 
-## 6. 擴展到手續費固定時的狀況 (Extended to the situation where the handling fee is fixed)
+## 6. Extended to the situation where the handling fee is fixed
 
 However, it is more common for on-chain transactions to charge a fixed handling fee that does not depend on the amount of total funds, rather than a percentage of total funds, so we have to rewrite our formula. Here we assume that the formula we derived earlier (assuming that the handling fee is proportional to the amount of total funds) can be applied to the situation when the handling fee is fixed, and we will discuss whether this assumption is reasonable below. Let's come back to the formula $(4)$ we got earlier:
 
