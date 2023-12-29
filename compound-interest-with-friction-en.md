@@ -201,8 +201,6 @@ $$
 
 First, let's look at what $\beta$ is. We know that $\beta$ is the ratio of the remaining funds after re-deposit to the total funds. From the above definition, we know that $\displaystyle\beta = \frac{V_f - F}{V_f} = \frac{V_i + I - F}{V_i + I}$. And $A$ is the ratio of accumulated interest income to initial capital, which can be written as $\displaystyle A = \frac{I}{V_i}$. Then $\left ( 1 + A \right )$ can be written as:
 
-我們先看 $\beta$ 是什麼，我們知道 $\beta$ 是在存入後剩餘資金與總資金的比。由上面的定義我們知道 $\displaystyle\beta = \frac{V_f - F}{V_f} = \frac{V_i + I - F}{V_i + I}$。而 $A$ 是累積的利息收入與初始資金的比值，可以寫為 $\displaystyle A = \frac{I}{V_i}$。那麼 $\left ( 1 + A \right )$ 就可以寫成：
-
 $$
 \left ( 1 + A \right ) = 1 + \frac{I}{V_i} = \frac{V_f}{V_i}
 $$
