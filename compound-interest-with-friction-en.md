@@ -235,8 +235,6 @@ Now let's look at the actual situation, assume we are providing $500$ USDT and $
 
 Let's assume that when we want to re-deposit the interest earned, we have to go through a three-step process. Firstly, we have to withdraw the interest, and since the ratio of USDT to USDC in the interest we received is not necessarily the same as the ratio of the two assets in our liquid pool. So we have to trade and convert them to the same ratio and then re-deposit them. In summary, no matter how many steps it takes, we add up all of the costs that would be incurred, and that is the required fee of $F$, assuming that the required fee (usually in the currency of the chain) is converted to $20$ dollars in the current situation.
 
-假設當我們要把賺到的利息再存入，假設要經過三個步驟，首先把利息提領出來，由於我們收到的手續費中 USDT 與 USDC 的比值，不一定跟我們的流動池中兩種資產的比值是相同的比例。所以我們還要交易把它們換成相同比例，最後再存入。總之不管要經過多少步驟，我們把所有會產生的成本都加起來，就是所需的手續費 $F$，假設在目前的狀況中所需的手續費（通常是該鍊的幣）換算成美金要 $20$ 美元。
-
 We substitute it into the above equation to get $I$ equal to $207$ dollars. You can look at the [Desmos page](https://www.desmos.com/calculator/aeull6siit) I created, we set $F$ and $V_i$ to the values we want, and then look at the intersection point of these two equations, which is the $I$ we are asking for.
 
 Another way is to find the roots of the following equation after moving the terms.
