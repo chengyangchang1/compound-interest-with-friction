@@ -111,8 +111,6 @@ You can see the [Desmos page](https://www.desmos.com/calculator/9imklswzy5?lang=
 
 However, we have assumed that the time interval between each re-deposit is uniform. If the interval is not uniform, is it possible to get a higher growth rate? To find out how to maximise the revenue, let's look at the previous equation $(1)$. We know that after a unit of time the funds become $\displaystyle\left [ \beta \left ( 1+\frac{a }{\displaystyle n} \right ) \right ] ^{\displaystyle n}$, and we can separate it to get:
 
-但是我們前面是假設，每次再存入的時間間隔是平均的，如果間隔不平均，有沒有可能使成長率更高？想要知道怎樣的間隔可以讓收益最大化，我們看前面的式子 $(1)$。我們知道過了單位時間後資金變為 $\displaystyle\left [ \beta \left ( 1+\frac{a }{\displaystyle n} \right ) \right ] ^{\displaystyle n}$，我們可以拆解它，得到：
-
 $$
 \left [ \beta \left ( 1+\frac{a }{\displaystyle n} \right ) \right ] ^{\displaystyle n} = \beta^{\displaystyle n} \left ( 1+\frac{a }{\displaystyle n} \right )^{\displaystyle n} \tag{6}
 $$
