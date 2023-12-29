@@ -159,8 +159,6 @@ This means that after a unit of time, money grows by $e^{\displaystyle a}$ times
 
 As we already know, if we take into account the commission, after a unit of time the funds will grow by $\displaystyle\left [ \beta \left ( 1+\frac{\displaystyle a }{\displaystyle n} \right ) \right ] ^{\displaystyle n}$ times compared to the initial. And let it be equal to $e^{\displaystyle b}$, where $b$ is the equivalent logarithmic rate of return:
 
-由於前面我們已經知道了，在考慮交易手續費的情況下，經過單位時間後資金會成長為原來的 $\displaystyle\left [ \beta \left ( 1+\frac{\displaystyle a }{\displaystyle n} \right ) \right ] ^{\displaystyle n}$ 倍，我們令它等於 $e^{\displaystyle b}$，其中 $b$ 就是等效對數報酬率：
-
 $$
 \left [ \beta \left ( 1+\frac{a }{\displaystyle n} \right ) \right ] ^{\displaystyle n} = e^{\displaystyle b}
 $$
