@@ -105,7 +105,7 @@ Let's go back and look at why we need to make the fee $F$ proportional to the to
 
 You can see the [Desmos page](https://www.desmos.com/calculator/9imklswzy5?lang=zh-TW) I created. The $x$ axis represents $n$, the purple line here represents the growth rate, the blue line represents the derivative of growth rate with respect to $n$, and the orange dotted line is the solution to equation $(3)$. We can see that the orange dotted line is a vertical line, which means that the $x$ value of the orange line is the solution to Equation $(3)$. We can see that the blue line (which is the derivative of the growth rate with respect to $x$) has a root whose $x$ value is exactly the $x$ value of the orange dashed line. The purple line also happens to be the highest point, not the lowest. In other words, we have verified numerically that the equation $(3)$ that we derived earlier is indeed the formula that maximises the growth rate. You can change different $\beta$ and $a$ to verify this, and the relationship we just mentioned will hold for different $\beta$ and $a$.
 
-## 4. 使成長率最大的分割間隔 (The best split interval to maximise growth rate)
+## 4. The best split interval to maximise growth rate
 
 However, we have assumed that the time interval between each re-deposit is uniform. If the interval is not uniform, is it possible to get a higher growth rate? To find out how to maximise the revenue, let's look at the previous equation $(1)$. We know that after a unit of time the funds become $\displaystyle\left [ \beta \left ( 1+\frac{a }{\displaystyle n} \right ) \right ] ^{\displaystyle n}$, and we can separate it to get:
 
