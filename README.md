@@ -14,7 +14,7 @@ English version (Work in progress):
 > - [HTML](compound-interest-with-friction-en.html)
 > - [PDF](compound-interest-with-friction-en.pdf)
 
-中文版（施工中）：
+中文版：
 
 > - [Markdown](compound-interest-with-friction-zh.md)
 > - [HTML](compound-interest-with-friction-zh.html)
