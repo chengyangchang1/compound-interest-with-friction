@@ -11,11 +11,13 @@ On 3 October 2016, [Vitalik Buterin proposed a model for constant product market
 English version (Work in progress):
 
 > - [Markdown](compound-interest-with-friction-en.md)
+> - [HTML]()
 > - [PDF](compound-interest-with-friction-en.pdf)
 
 中文版（施工中）：
 
 > - [Markdown](compound-interest-with-friction-zh.md)
+> - [HTML]()
 > - [PDF](compound-interest-with-friction-zh.pdf)
 
 The reason for this post is that I lock positions on Uniswap to generate revenue, but the revenue generated from market making on Uniswap is not automatically deposited back into the liquid pool. So I need to manually withdraw the revenue and deposit it back into the liquid pool to generate compound interest. So I need to know what is the best deposit cycle to maximise the growth rate. But I've searched for a long time and couldn't find anyone who had done something similar, so I had to derive it myself. Also as an exercise in writing an essay in Markdown format.
