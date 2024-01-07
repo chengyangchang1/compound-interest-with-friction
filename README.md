@@ -11,7 +11,7 @@ On 3 October 2016, [Vitalik Buterin proposed a model for constant product market
 English version (Work in progress):
 
 > - [Markdown](compound-interest-with-friction-en.md)
-> - [PDF]()
+> - [PDF](compound-interest-with-friction-en.pdf)
 
 中文版（施工中）：
 
