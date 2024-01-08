@@ -1,5 +1,9 @@
 # 在有市場摩擦下的複利模型 (Compound interest model in frictional markets)
 
+作者：Cheng-Yang Chang chengyangchang1@gmail.com 2023.9.19
+
+[Check it out on GitHub](https://github.com/chengyangchang1/compound-interest-with-friction)
+
 On 3 October 2016, [Vitalik Buterin proposed a model for constant product market makers on reddit](https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/). On 2 November 2018, [Uniswap deploys the first contract on ethereum](https://twitter.com/haydenzadams/status/1058376395108376577?ref_src=twsrc%5Etfw), and from then on we can run decentralised exchanges (AMM) on the blockchain.
 
 2016 年 10 月 3 日，[v神在 reddit 上提出了恆定乘積做市的模型](https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/)。2018 年 11 月 2 日，[Uniswap 在以太坊上部署第一個合約](https://twitter.com/haydenzadams/status/1058376395108376577?ref_src=twsrc%5Etfw)，從此以後我們可以在區塊鍊上運行去中心化交易所（AMM）。
