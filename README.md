@@ -34,4 +34,4 @@ This article is intended as an experiment and exercise in Markdown essay formatt
 
 ## Donation
 
-[![](https://img.shields.io/badge/Donate-Bitcoin-f6911d.svg?logo=bitcoin)]()
+[![Donate Bitcoin](https://img.shields.io/badge/Donate-Bitcoin-f6911d.svg?logo=bitcoin)]()
