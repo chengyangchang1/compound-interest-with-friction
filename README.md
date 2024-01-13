@@ -35,4 +35,4 @@ This article is intended as an experiment and exercise in Markdown essay formatt
 ## Donation
 
 [![Donate Bitcoin](https://img.shields.io/badge/Donate-Bitcoin-f6911d.svg?logo=bitcoin)](images/BTC捐款地址.JPG)
-[![Donate Ethereum](https://img.shields.io/badge/Donate-Bitcoin-blue.svg?logo=ethereum)](images/ETH捐款地址.JPG)
+[![Donate Ethereum](https://img.shields.io/badge/Donate-Ethereum-blue.svg?logo=ethereum)](images/ETH捐款地址.JPG)
