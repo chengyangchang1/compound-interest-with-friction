@@ -33,3 +33,5 @@ This article is intended as an experiment and exercise in Markdown essay formatt
 這篇文章是作為 Markdown 論文格式的實驗與練習，與做為開源論文的實驗，有任何錯誤、建議或想法都歡迎提出。格式參考李笑來翻譯的《[比特币白皮书中文版](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation)》和 [cypherpunks-core/bitcoin_whitepaper_zh](https://github.com/cypherpunks-core/bitcoin_whitepaper_zh)。排版參考 [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)。英文的部分使用機器輔助翻譯。
 
 ## Donation
+
+[![](https://img.shields.io/badge/Donate-Bitcoin-f6911d.svg?logo=bitcoin)]()
