@@ -34,7 +34,7 @@ This article is intended as an experiment and exercise in Markdown essay formatt
 
 ## Donation
 
-這個專案沒有收受任何資金的支持，包含個人、企業與政府的計畫，如果你認為對你有幫助，可以考慮捐款來支持。
+這個專案沒有收受任何資金的支持，包含個人、企業與政府的計畫。單純是出於作者本人獨立、無償的花費時間，以及作為開源計畫的實驗。如果你認為這樣的內容對你有幫助，可以考慮捐款來支持，以便幫我產生更多以類似方式支持的計劃。
 
 [![Donate Bitcoin](https://img.shields.io/badge/Donate-Bitcoin-f6911d.svg?logo=bitcoin)](images/BTC捐款地址.JPG)
 [![Donate Ethereum](https://img.shields.io/badge/Donate-Ethereum-blue.svg?logo=ethereum)](images/ETH捐款地址.JPG)
