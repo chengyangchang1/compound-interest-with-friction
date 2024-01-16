@@ -46,6 +46,7 @@ bitcoin:
 3F4Exk9J8FgJDgEYBqwRydFdLDne77uvWW
 
 Ethereum:
+0x580D1D45433e69829Dd55173B42413Dc535AE239
 
 [![Donate Bitcoin](https://img.shields.io/badge/Donate-Bitcoin-f6911d.svg?logo=bitcoin)](images/BTC捐款地址.JPG)
 [![Donate Ethereum](https://img.shields.io/badge/Donate-Ethereum-blue.svg?logo=ethereum)](images/ETH捐款地址.JPG)
