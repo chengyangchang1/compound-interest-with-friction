@@ -42,5 +42,10 @@ If you find this kind of content helpful, please consider making a donation to h
 
 如果你認為這樣的內容對你有幫助，可以考慮捐款來支持，以便幫我產生更多以類似方式支持的計劃。
 
+bitcoin:
+3F4Exk9J8FgJDgEYBqwRydFdLDne77uvWW
+
+Ethereum:
+
 [![Donate Bitcoin](https://img.shields.io/badge/Donate-Bitcoin-f6911d.svg?logo=bitcoin)](images/BTC捐款地址.JPG)
 [![Donate Ethereum](https://img.shields.io/badge/Donate-Ethereum-blue.svg?logo=ethereum)](images/ETH捐款地址.JPG)
