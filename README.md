@@ -34,6 +34,8 @@ This article is intended as an experiment and exercise in Markdown essay formatt
 
 ## Donation
 
+This project receives no funding from any individual, corporations, or government. It is simply the result of the author's independent, unpaid time and experimentation as an open source project.
+
 這個專案沒有收受任何資金的支持，包含個人、企業與政府的計畫。單純是出於作者本人獨立、無償的花費時間，以及作為開源計畫的實驗。
 
 如果你認為這樣的內容對你有幫助，可以考慮捐款來支持，以便幫我產生更多以類似方式支持的計劃。
